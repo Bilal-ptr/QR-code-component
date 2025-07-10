@@ -1,4 +1,4 @@
-### 💡 My Learning Experience (In My Own Words)
+### 💡 My Learning Experience (In My Own Words  Bilal Khan )
 
 Honestly, I learned HTML, CSS, and JS mostly by watching tutorials. But after creating this simple card project, I realized that just watching tutorials doesn't mean I really *know* the skill.
 
