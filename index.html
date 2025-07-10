@@ -14,6 +14,9 @@
       background-color: aliceblue;
     }
     
+
+
+    
     .attribution { font-size: 11px; text-align: center; }
     .attribution a { color: hsl(228, 45%, 44%); }
     .QR-body{
@@ -33,7 +36,7 @@
       padding: 10px;
       border-radius: 10px;
       background-color: #ffff;
-      width: 300px;
+      width: 200px;
      box-shadow: 0px 5px 10px rgba(64, 36, 91, 0.2);
 
       
@@ -44,10 +47,21 @@
     }
     #QR-card h1{
       font-size: 1.2rem;
+      font-weight: 700;
       color: #34009cea;
       
     }
-  
+  @media (min-width: 768px) {
+  #QR-card {
+    width: 300px;  
+    padding: 20px; 
+  }
+
+  #QR-card h1 {
+    font-size: 1.5rem; 
+  }
+}
+
 
 
   </style>
