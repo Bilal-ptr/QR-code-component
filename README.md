@@ -23,6 +23,9 @@ Then I faced another issue — I wanted to center the text inside the card.
 At first, I tried using `align-items` and `justify-content`, but the text wasn’t centered as I expected.  
 Later, I understood that I needed `text-align: center` to center the text inside the card.
 
+
+i also Confessued in Responsive to follow mob first approch .i just working in dekstop then i Search in Internet i Confirmt that mob first approch 
+
 ---
 
 ✅ Here’s what I learned:
